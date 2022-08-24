@@ -1,0 +1,14 @@
+﻿  Board.cpp
+C:\Users\avamc_srsebwe\OneDrive\Documents\2. Spring 22\VS\repos\Projects\MINESWEEPERRRRR\proj_3\Board.cpp(105,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\avamc_srsebwe\OneDrive\Documents\2. Spring 22\VS\repos\Projects\MINESWEEPERRRRR\proj_3\Board.cpp(119,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\avamc_srsebwe\OneDrive\Documents\2. Spring 22\VS\repos\Projects\MINESWEEPERRRRR\proj_3\Board.cpp(119,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\avamc_srsebwe\OneDrive\Documents\2. Spring 22\VS\repos\Projects\MINESWEEPERRRRR\proj_3\Board.cpp(196,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\avamc_srsebwe\OneDrive\Documents\2. Spring 22\VS\repos\Projects\MINESWEEPERRRRR\proj_3\Board.cpp(196,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\avamc_srsebwe\OneDrive\Documents\2. Spring 22\VS\repos\Projects\MINESWEEPERRRRR\proj_3\Board.cpp(199,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\avamc_srsebwe\OneDrive\Documents\2. Spring 22\VS\repos\Projects\MINESWEEPERRRRR\proj_3\Board.cpp(199,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\avamc_srsebwe\OneDrive\Documents\2. Spring 22\VS\repos\Projects\MINESWEEPERRRRR\proj_3\Board.cpp(203,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\avamc_srsebwe\OneDrive\Documents\2. Spring 22\VS\repos\Projects\MINESWEEPERRRRR\proj_3\Board.cpp(203,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\avamc_srsebwe\OneDrive\Documents\2. Spring 22\VS\repos\Projects\MINESWEEPERRRRR\proj_3\Board.cpp(218,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\avamc_srsebwe\OneDrive\Documents\2. Spring 22\VS\repos\Projects\MINESWEEPERRRRR\proj_3\Board.cpp(224,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\avamc_srsebwe\OneDrive\Documents\2. Spring 22\VS\repos\Projects\MINESWEEPERRRRR\proj_3\Board.cpp(224,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  proj_3.vcxproj -> C:\Users\avamc_srsebwe\OneDrive\Documents\2. Spring 22\VS\repos\Projects\MINESWEEPERRRRR\x64\Debug\proj_3.exe
